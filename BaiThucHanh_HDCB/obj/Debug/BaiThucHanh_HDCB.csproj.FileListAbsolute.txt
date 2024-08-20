@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\bin\Debug\BaiThucHanh_HDCB.exe.config
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\bin\Debug\BaiThucHanh_HDCB.exe
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\bin\Debug\BaiThucHanh_HDCB.pdb
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.MainForm.resources
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.exe
+C:\Users\PC602\source\repos\2212479_Lab3\BaiThucHanh_HDCB\obj\Debug\BaiThucHanh_HDCB.pdb

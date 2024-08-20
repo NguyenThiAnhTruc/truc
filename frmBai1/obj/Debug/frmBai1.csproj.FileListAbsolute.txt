@@ -1,0 +1,11 @@
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\bin\Debug\frmBai1.exe.config
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\bin\Debug\frmBai1.exe
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\bin\Debug\frmBai1.pdb
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.FrmChinh.resources
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.frmBai1.resources
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.Properties.Resources.resources
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.exe
+C:\Users\PC602\source\repos\2212479_Lab3\frmBai1\obj\Debug\frmBai1.pdb
